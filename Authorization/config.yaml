@@ -1,0 +1,15 @@
+# config.yaml
+
+api_server:
+  port: 8080
+
+database:
+  user: root
+  password: secret
+  host: db
+  port: 8100
+  name: identity_db
+  provider: azure
+
+security:
+  bcrypt_cost: 10
