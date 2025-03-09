@@ -1,0 +1,7 @@
+# Port Configurations
+
+payments_defaults:
+  port: 8000
+
+auth_defaults:
+  port: 8080
